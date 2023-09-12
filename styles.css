@@ -9,8 +9,9 @@ body {
     background-color: #202124;
 }
 h1{
+    padding-top: 5%;
     text-align: center;
-    
+    color: aliceblue;
 }
 input {
     border-radius: 15px;
@@ -30,4 +31,7 @@ input {
     margin: 10%;
     padding: 10%;
     background-color: #3c4043;
+    border: brown;
+    border-color: aquamarine;
+    border-width: 5px;
 }
